@@ -1,0 +1,25 @@
+body {
+    padding: 20px;
+  }
+@media (max-width: 980px) {
+    body {
+      padding: 20px;
+      padding-top: 0;
+    }
+}
+.bg-gray {
+    background-color: #c4c4c4;
+}
+.outer {
+  width: auto;
+  height:auto;
+  padding: 18px;
+  background-color: rgb(100, 100, 100);
+}
+.inner {
+  margin: auto;
+  width: auto;
+  height: 90px;
+  padding: 18px;
+  background-color: rgb(200, 200, 200);
+}
